@@ -57,3 +57,9 @@ Use the "West Gear" partnership as a blueprint for underperforming retailers lik
 
 ### Inventory Planning
 Prioritize stock levels in early Q3 to capitalize on proven seasonal spikes.
+
+---
+
+## Dashboard Preview
+
+![Adidas US Sales Dashboard](Adidas Sales Analysis.jpg)
