@@ -20,16 +20,16 @@ Uncover “Profit Paradoxes” - situations where high sales volume does not nec
 
 ## The Approach
 
-- Data Profiling & Cleaning (SQL)
+### Data Profiling & Cleaning (SQL)
 Conducted a thorough audit to handle duplicates, validate currency logic, and ensure data consistency.
 
-- SQL Analysis
+### SQL Analysis
 Engineered complex queries to detect regional underperformers and calculated Month-over-Month (MoM) growth rates.
 
-- Data Modeling
+### Data Modeling
 Established a Star Schema in Power BI by connecting fact tables to a central Calendar dimension for advanced time series analysis.
 
-- DAX Engineering
+### DAX Engineering
 Developed custom measures for Profit Margin % and Revenue Efficiency to move beyond basic aggregates.
 
 ---
