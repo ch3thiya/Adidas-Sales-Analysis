@@ -62,4 +62,4 @@ Prioritize stock levels in early Q3 to capitalize on proven seasonal spikes.
 
 ## Dashboard Preview
 
-![Adidas US Sales Dashboard](Adidas Sales Analysis.jpg)
+![Adidas US Sales Dashboard](AdidasSalesAnalysis.jpg)
