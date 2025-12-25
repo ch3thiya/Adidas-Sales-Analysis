@@ -42,8 +42,8 @@ While Online channels drive the highest total revenue (~$45M), In-store sales le
 ### Regional Powerhouse
 The West Region dominates the portfolio, contributing 30% ($36M) of total revenue, largely driven by the high performance of "West Gear."
 
-### Seasonal Velocity
-Sales analysis shows significant peaks in July and December, highlighting critical windows for inventory optimization.
+### The 2021 Recovery
+2020 was a stagnant year with almost no year end peak. However, 2021 saw a massive volume surge, establishing new seasonal peaks in July and December.
 
 ---
 
